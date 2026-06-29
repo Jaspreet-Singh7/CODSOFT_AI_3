@@ -82,7 +82,7 @@ for cap in captions: print(cap)
 ---
 
 ## 🔗 Connect
-- **LinkedIn:** [Jaspreet Singh](https://linkedin.com/in/jaspreet-singh-877748275)
+- **LinkedIn:** [Jaspreet Singh](https://www.linkedin.com/in/jaspreet-singh-hira-877748275?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - **GitHub:** [Jaspreet-Singh7](https://github.com/Jaspreet-Singh7)
 
 ---
